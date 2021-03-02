@@ -19,7 +19,7 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 
 ## Screenshots
 ![Principles of graphic design screenshot](./img/4_principles_of_graphic_design.png)
-![Boostrap color names](./img/all_the_bootstrap_color_names.png.png)
+![Boostrap color names](./img/all_the_bootstrap_color_names.png)
 
 ## Technologies
 * Tech 1 - version 1.0
