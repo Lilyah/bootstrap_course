@@ -18,7 +18,8 @@ The purpose of the project is to help learning how to use bootstrap for creating
 The name of the online course is Bootstrap 4 for the Developer from Mario Duilio Macari, wihch can be found in pluralsight.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Principles of graphic design screenshot](./img/4_principles_of_graphic_design.png)
+![Boostrap color names](./img/all_the_bootstrap_color_names.png.png)
 
 ## Technologies
 * Tech 1 - version 1.0
