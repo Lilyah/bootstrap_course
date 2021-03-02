@@ -17,7 +17,7 @@
 The purpose of the project is to help learning how to use bootstrap for creating good looking web pages.
 The name of the online course is Bootstrap 4 for the Developer from Mario Duilio Macari, wihch can be found in pluralsight.
 
-## Screenshots
+## Graphics
 ![Principles of graphic design screenshot](./img/4_principles_of_graphic_design.png)
 ![Boostrap color names](./img/all_the_bootstrap_color_names.png)
 
@@ -47,7 +47,7 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_,_finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
