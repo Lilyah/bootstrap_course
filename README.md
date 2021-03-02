@@ -1,6 +1,6 @@
 // README is in progress
 
-# Project Name
+# Bootstrap fundamentals
 > Project from online course to help learn bootstrap
 
 ## Table of contents
@@ -14,7 +14,8 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The purpose of the project is to help learning how to use bootstrap for creating good looking web pages.
+The name of the online course is Bootstrap 4 for the Developer from Mario Duilio Macari, wihch can be found in pluralsight.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -25,7 +26,10 @@ Add more general information about project. What the purpose of the project is? 
 * Tech 3 - version 3.0
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+// Describe how to install / setup your local environement / add link to demo version.
+Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
+Use the Emmet extention https://emmet.io/
+
 
 ## Code Examples
 Show examples of usage:
