@@ -24,6 +24,9 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 * All bootstrap color names
 ![Boostrap color names](./img/all_the_bootstrap_color_names.png)
 
+* Containers and rows
+![Containers and rows](./img/containers_and_rows.png)
+
 ## Technologies
 * Tech 1 - version 1.0
 * Tech 2 - version 2.0
