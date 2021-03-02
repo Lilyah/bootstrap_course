@@ -5,7 +5,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Graphics](#graphics)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -18,7 +18,10 @@ The purpose of the project is to help learning how to use bootstrap for creating
 The name of the online course is Bootstrap 4 for the Developer from Mario Duilio Macari, wihch can be found in pluralsight.
 
 ## Graphics
+* 4 Principles of graphic design
 ![Principles of graphic design screenshot](./img/4_principles_of_graphic_design.png)
+
+* All bootstrap color names
 ![Boostrap color names](./img/all_the_bootstrap_color_names.png)
 
 ## Technologies
@@ -28,8 +31,8 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 
 ## Setup
 // Describe how to install / setup your local environement / add link to demo version.
-Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
-Use the Emmet extention https://emmet.io/
+* Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* Use the Emmet extention https://emmet.io/
 
 
 ## Code Examples
