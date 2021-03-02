@@ -28,7 +28,7 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 ![Containers and rows](./img/containers_and_rows.png)
 
 * Media breakpoints
-![Media breakpoints](./img/media_breakpoints.mov)
+![Media breakpoints](./img/media_breakpoints_bs4.png)
 
 
 
