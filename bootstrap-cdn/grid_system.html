@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+
+    <style>
+        div{
+            margin: 20px auto;
+            border: 1px solid #000;
+            
+        }
+
+    </style>
+
+  </head>
+
+  
+  <body>
+
+<section class="container"> <!-- section or div it dosn't matter -->
+
+    <section class="row">
+        <p>* Section 1</p>
+        <!-- col is vertical area insid bootstrap 4; you can have multiple col inside of a row -->
+        <div class="col">Equal</div>
+        <div class="col">Equal</div>
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+        <div class="col">Equal</div>        
+    </section>
+
+    <section class="row">
+        <p>* Section 2</p>
+        <div class="col">Equal2</div>
+        <div class="col">Equal2</div>
+
+        <div class="w-100"></div>
+
+        <div class="col">Equal2</div>    
+        <div class="col">Equal2</div>        
+    </section>
+
+    <section class="row">
+        <p>* Section 3</p>
+        <!-- the sum of all col class is 12 bu default, so 8+2=10 and bootstrap set the last one x-12=10
+        but this is not responsive -->
+        <div class="col">Auto</div>
+        <div class="col-8">Auto</div>  
+        <div class="col-2">Auto</div>        
+    </section>
+
+    <section class="row">
+        <p>* Section 4</p>
+        <!-- col-sm will set the minimum lenght "sm" -->
+        <div class="col-sm">Auto</div>
+        <div class="col-sm">Auto</div>  
+        <div class="col-sm">Auto</div>        
+    </section>
+
+    <section class="row">
+        <p>* Section 5</p>
+        <!-- reorder col with flex
+        https://getbootstrap.com/docs/5.0/utilities/flex/
+         -->
+        <div class="col-sm order-3">First</div>
+        <div class="col-sm order-1">Second</div>  
+        <div class="col-sm order-2">Third</div>        
+    </section>
+
+    <section class="row">
+        <p>* Section 6</p>
+        <!-- 2 columns nested with in the first column -->
+        <div class="col bg-warning" style="border:none">First
+
+            <section class="row">
+
+                <div class="col bg-info" style="border:none">Second</div>  
+                <div class="col bg-success" style="border:none">Third</div> 
+
+            </section>  
+
+        </div>
+    </section>
+
+
+    <section class="row">
+        <p>* Section 7</p>
+        <!-- controling the changin points
+            6 col at small size; 
+            10 col at medium size; 
+            4 col at the large size; 
+            8 col at the extra large size; -->
+        <div class="col-sm-6 col-md-10 col-lg-4 col-xl-8 bg-warning" style="border:none">
+            
+            <p>SM: 576px<br>MD: 768px<br>LG: 992px<br>XL: 1200px</p>
+
+        </div>
+    </section>
+
+    <section class="row">
+        <p>* Section 8</p>
+        <!-- Multi column layouts;
+            bg-secondary for gray -->
+        <div class="col-6 bg-info" style="border:none">1</div>
+        <div class="col-6 bg-secondary" style="border:none">2</div> 
+    </section>
+    <section class="row">
+        <!-- bg-secondary for gray -->
+        <div class="col-4 bg-info" style="border:none">1</div>
+        <div class="col-4 bg-secondary" style="border:none">2</div> 
+        <div class="col-4 bg-success" style="border:none">3</div> 
+    </section>
+    <section class="row">
+        <!-- bg-secondary for gray -->
+        <div class="col-3 bg-info" style="border:none">1</div>
+        <div class="col-3 bg-secondary" style="border:none">2</div> 
+        <div class="col-3 bg-success" style="border:none">3</div> 
+        <div class="col-3 bg-danger" style="border:none">4</div> 
+    </section>
+</section>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
