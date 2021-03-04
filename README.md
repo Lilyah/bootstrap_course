@@ -33,6 +33,9 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 * Grid system
 ![Grid system](./img/grid_system.png)
 
+* Aligment and offsets
+![Aligment and offsets](./img/aligment_and_offsets.png)
+
 
 
 ## Technologies
