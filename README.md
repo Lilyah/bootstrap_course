@@ -38,6 +38,7 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 
 * Padding, display and margins
 ![Padding, display and margins](./img/margins_and_paddings_bs4.png)
+![Padding, display and margins graphic 2](./img/padding_display_and_margins_2.png)
 
 
 
