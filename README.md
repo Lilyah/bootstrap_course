@@ -36,6 +36,9 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 * Aligment and offsets
 ![Aligment and offsets](./img/aligment_and_offsets.png)
 
+* Padding, display and margins
+![Padding, display and margins](./img/margins_and_paddings_bs4.png)
+
 
 
 ## Technologies
