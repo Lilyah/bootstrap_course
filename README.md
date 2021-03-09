@@ -58,6 +58,9 @@ The content in this project is divided in sections, and every section is in diff
 ![Navbars](./img/navbar.png)
 ![Other navbars](./img/other_navbars.png)
 
+* Breadcrumbs
+![Breadcrumbs](./img/breadcrumbs.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
