@@ -60,9 +60,7 @@ The content in this project is divided in sections, and every section is in diff
 
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Bootstrap from 4.1.1 to 5.0.0
 
 ## Setup
 // Describe how to install / setup your local environement / add link to demo version.
