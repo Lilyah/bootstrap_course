@@ -14,8 +14,18 @@
 * [Contact](#contact)
 
 ## General info
-The purpose of the project is to help learning how to use bootstrap for creating good looking web pages.
-The name of the online course is Bootstrap 4 for the Developer from Mario Duilio Macari, wihch can be found in pluralsight.
+The purpose of the project is to lay the foundations how bootstrap works.
+The name of the online course is "Bootstrap 4 for the Developer" from Mario Duilio Macari, wihch can be found in pluralsight.
+The content in this project is divided in sections, and every section is in different html file.
+* Bg colors
+* Containers and rows
+* Media breakpoints
+* Grid system
+* Aligments and offsets
+* Padding display and margins
+* Flexbox / Flexible box
+* Precoded navbar start, navbar colors
+
 
 ## Graphics
 * 4 Principles of graphic design
