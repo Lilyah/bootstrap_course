@@ -65,7 +65,8 @@ The content in this project is divided in sections, and every section is in diff
 ## Setup
 // Describe how to install / setup your local environement / add link to demo version.
 * Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
-* Use the Emmet extention https://emmet.io/
+* Emmet extention https://emmet.io/ for easier coding
+* Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer extention for live local reload on the code 
 
 
 ## Code Examples
