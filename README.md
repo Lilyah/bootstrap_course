@@ -61,6 +61,9 @@ The content in this project is divided in sections, and every section is in diff
 * Breadcrumbs
 ![Breadcrumbs](./img/breadcrumbs.png)
 
+* Pagination
+![Breadcrumbs](./img/pagination.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
