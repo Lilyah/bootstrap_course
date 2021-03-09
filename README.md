@@ -57,8 +57,6 @@ The content in this project is divided in sections, and every section is in diff
 * Navbars
 ![Navbars](./img/navbar.png)
 ![Other navbars](./img/other_navbars.png)
-![Search box](./img/search_box.png)
-
 
 
 ## Technologies
