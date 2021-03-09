@@ -43,6 +43,10 @@ The name of the online course is Bootstrap 4 for the Developer from Mario Duilio
 * Flexbox
 ![Flexbox](./img/flexboxes.png)
 
+* Navbars
+![Navbars](./img/navbar.png)
+![Other navbars](./img/other_navbars.png)
+
 
 
 ## Technologies
