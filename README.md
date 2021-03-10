@@ -24,8 +24,12 @@ The content in this project is divided in sections, and every section is in diff
 * Aligments and offsets
 * Padding display and margins
 * Flexbox / Flexible box
-* Precoded navbar start, navbar colors
+* Precoded navbar, navbar colors
 * Search box in navbar
+* Breadcrumbs
+* Pagination
+* Sticky navbars
+* Headlines
 
 
 ## Graphics
