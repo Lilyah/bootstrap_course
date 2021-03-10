@@ -64,6 +64,10 @@ The content in this project is divided in sections, and every section is in diff
 * Pagination
 ![Breadcrumbs](./img/pagination.png)
 
+* Styckey navbars
+![Transperent stickey navbar](./img/stickey_navbar_transparent.png)
+![Transperent stickey navbar](./img/stickey_navbar_animated.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0

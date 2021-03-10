@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="styles/style.css">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+
+    <div class="fixed-top" id="menu-area">
+        <div class="logo">
+            <a href="#">
+                <img src="img/logo.png" alt="">
+            </a>
+        </div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+            <button type="button" class="hidden-sm" onclick="" id="signIn">Sign in</button>
+        </ul>
+    </div>
+
+    <div class="banner-area">
+        <div class="banner-text">
+            <h2>Sticky Navbar</h2>
+            <a href="#">Learn More</a>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="wrapper">
+            <h2>Content Header</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum non leo a fringilla. Donec egestas nibh mauris, non vestibulum enim sodales faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse ac efficitur mauris. Vestibulum in lorem ac dui lobortis porttitor. Mauris pretium risus id purus tincidunt lacinia. Aliquam iaculis venenatis fermentum. Cras tellus tellus, dictum nec luctus ut, auctor non mauris. Maecenas dignissim enim vitae ante varius rutrum tempus ut tellus. Aliquam in odio vel orci lobortis molestie sed id justo. Duis vitae erat eget orci interdum feugiat eu ut sem. In hac habitasse platea dictumst. Maecenas eleifend lobortis erat ac efficitur. Nullam tempor orci nulla, nec convallis nisl imperdiet quis. Nam id libero ultricies, rutrum erat id, dictum lectus.
+
+                Pellentesque nec leo ligula. Sed eu metus sem. Vivamus id leo et lorem scelerisque tempor sit amet in augue. Nunc sed est gravida, dapibus purus non, placerat purus. Duis quam ex, iaculis ut ipsum ac, imperdiet maximus odio. Mauris vel arcu rhoncus purus sodales volutpat sed vitae augue. Quisque eget est scelerisque, laoreet diam et, ultrices lectus.
+                
+                Nullam id ante ut neque mollis commodo. Nam in consectetur mi. Nullam lacinia sit amet nulla in sollicitudin. Phasellus diam eros, dapibus sit amet faucibus in, lacinia at purus. Aenean lectus velit, eleifend sed felis ut, convallis pretium velit. Etiam vel egestas nulla. Donec neque libero, scelerisque id consequat vitae, ultrices in sem. Sed maximus faucibus metus non consequat. Duis ultrices gravida finibus. Curabitur molestie nisl ac ornare aliquam. Nulla laoreet odio quis diam consequat congue. Donec posuere interdum sapien sed iaculis. Nulla a iaculis purus. Curabitur congue, enim a hendrerit aliquet, felis ex fringilla nunc, at finibus neque est ut leo.
+                
+                In a enim urna. Mauris diam risus, viverra at imperdiet et, egestas facilisis velit. Quisque id tellus a nisl tristique blandit vel maximus elit. Donec eu felis vel purus cursus congue et vitae sem. Nunc ac ullamcorper sem. Cras blandit purus ac ligula ornare, quis pharetra ante eleifend. Sed eros metus, cursus in metus eu, volutpat pretium sem. Proin bibendum sodales arcu, quis elementum nisl feugiat a. Quisque tellus orci, porttitor eu est in, gravida consectetur nunc.
+                
+                Suspendisse ut odio a massa dictum imperdiet eget quis sem. Aenean ut diam quis elit tristique sagittis ut vel libero. Nullam nec tempor eros. Nam neque orci, dapibus ac ex sed, eleifend bibendum enim. Sed a imperdiet risus. Nam erat justo, porttitor ac malesuada sit amet, aliquam ac lorem. Nulla tristique et lacus quis convallis.</p>
+        </div>
+    </div>
+
+<script>
+    window.addEventListener("scroll", function(){
+        let menuArea = document.getElementById('menu-area');
+
+        if(window.pageYOffset > 0 ){
+            menuArea.classList.add("cus-nav");
+        }else{
+            menuArea.classList.remove("cus-nav")
+        }
+    });
+</script>
+
+</body>
+</html>
