@@ -72,6 +72,9 @@ The content in this project is divided in sections, and every section is in diff
 ![Transperent stickey navbar](./img/stickey_navbar_transparent.png)
 ![Transperent stickey navbar](./img/stickey_navbar_animated.png)
 
+* Headlines
+![Headline](./img/headlines.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
