@@ -78,6 +78,9 @@ The content in this project is divided in sections, and every section is in diff
 * Text colors
 ![Text colors](./img/text_colors.png)
 
+* Paragraphs and Blockquotes
+![Paragraphs and Blockquotes](./img/paragraphs_and_blockquotes.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
