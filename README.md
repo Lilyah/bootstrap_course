@@ -81,6 +81,9 @@ The content in this project is divided in sections, and every section is in diff
 * Paragraphs and Blockquotes
 ![Paragraphs and Blockquotes](./img/paragraphs_and_blockquotes.png)
 
+* Inline Elements
+![Inline Elements](./img/inline_elements.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
