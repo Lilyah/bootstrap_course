@@ -86,6 +86,7 @@ The content in this project is divided in sections, and every section is in diff
 
 * Lists
 ![Lists](./img/lists.png)
+![Lists with Javascript behavior](./img/list_with_javascript_behavior.png)
 
 
 ## Technologies
