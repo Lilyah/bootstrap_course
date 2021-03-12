@@ -30,6 +30,10 @@ The content in this project is divided in sections, and every section is in diff
 * Pagination
 * Sticky navbars
 * Headlines
+* Text colors
+* Paragraphs and Blockquotes
+* Inline elements
+* Responsive floats
 
 
 ## Graphics
@@ -87,6 +91,9 @@ The content in this project is divided in sections, and every section is in diff
 * Lists
 ![Lists](./img/lists.png)
 ![Lists with Javascript behavior](./img/list_with_javascript_behavior.png)
+
+* Responsive floats
+![Responsive floats](./img/responsive_floats.png)
 
 
 ## Technologies
