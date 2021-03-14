@@ -35,6 +35,7 @@ The content in this project is divided in sections, and every section is in diff
 * Inline elements
 * Responsive floats
 * Fixed types and justify text
+* Buttons
 
 
 ## Graphics
@@ -95,6 +96,9 @@ The content in this project is divided in sections, and every section is in diff
 
 * Responsive floats
 ![Responsive floats](./img/responsive_floats.png)
+
+* Buttons
+![Buttons](./img/buttons.png)
 
 
 ## Technologies
