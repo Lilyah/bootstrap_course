@@ -100,6 +100,9 @@ The content in this project is divided in sections, and every section is in diff
 * Buttons
 ![Buttons](./img/buttons.png)
 
+* Alerts
+![Alerts](./img/alerts.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
