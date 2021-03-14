@@ -37,6 +37,7 @@ The content in this project is divided in sections, and every section is in diff
 * Fixed types and justify text
 * Buttons
 * Alerts
+* Badges
 
 
 ## Graphics
@@ -103,6 +104,9 @@ The content in this project is divided in sections, and every section is in diff
 
 * Alerts
 ![Alerts](./img/alerts.png)
+
+* Badges
+![Badges](./img/badges.png)
 
 
 ## Technologies
