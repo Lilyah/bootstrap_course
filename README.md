@@ -39,6 +39,7 @@ The content in this project is divided in sections, and every section is in diff
 * Alerts
 * Badges
 * Images
+* Footer and Font Awasome
 
 
 ## Graphics
@@ -109,6 +110,9 @@ The content in this project is divided in sections, and every section is in diff
 * Badges
 ![Badges](./img/badges.png)
 
+* Footer and Fontawasome
+![Footer and Fontawasome](./img/footer_and_fontawasome.png)
+
 
 ## Technologies
 * Bootstrap from 4.1.1 to 5.0.0
@@ -120,6 +124,8 @@ The content in this project is divided in sections, and every section is in diff
 * Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
 * Emmet extention https://emmet.io/ for easier coding
 * Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer extention for live local reload on the code 
+* Fontawasome v5.15.2
+
 
 
 ## Code Examples
