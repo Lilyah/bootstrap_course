@@ -43,6 +43,7 @@ The content in this project is divided in sections, and every section is in diff
 * Cards
 * Tables
 * Borders
+* Media Objects
 
 
 ## Graphics
@@ -124,6 +125,9 @@ The content in this project is divided in sections, and every section is in diff
 
 * Borders
 ![Tables](./img/borders.png)
+
+* Media Objects
+![Media objects](./img/media_objects.png)
 
 
 
