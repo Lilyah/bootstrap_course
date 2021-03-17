@@ -40,6 +40,8 @@ The content in this project is divided in sections, and every section is in diff
 * Badges
 * Images
 * Footer and Font Awasome
+* Cards
+* Tables
 
 
 ## Graphics
@@ -115,6 +117,9 @@ The content in this project is divided in sections, and every section is in diff
 
 * Cards
 ![Cards](./img/cards.png)
+
+* Tables
+![Tables](./img/tables.png)
 
 
 
