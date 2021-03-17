@@ -113,6 +113,9 @@ The content in this project is divided in sections, and every section is in diff
 * Footer and Fontawasome
 ![Footer and Fontawasome](./img/footer_and_fontawasome.png)
 
+* Cards
+![Cards](./img/cards.png)
+
 
 
 ## Technologies
