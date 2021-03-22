@@ -130,6 +130,9 @@ The content in this project is divided in sections, and every section is in diff
 * Media Objects
 ![Media objects](./img/media_objects.png)
 
+* Forms
+![Forms](./img/forms.png)
+
 
 
 ## Technologies
