@@ -133,6 +133,9 @@ The content in this project is divided in sections, and every section is in diff
 * Forms
 ![Forms](./img/forms.png)
 
+* Jumbotron
+![Jumbotron](./img/jumbotron.png)
+
 
 
 ## Technologies
