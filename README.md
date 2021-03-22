@@ -45,7 +45,7 @@ The content in this project is divided in sections, and every section is in diff
 * Borders
 * Media Objects
 * Forms
-* Other Bootstrap Components - Jumbotron, 
+* Other Bootstrap Components - Jumbotron, Carousels
 
 ## Graphics
 * 4 Principles of graphic design
@@ -139,9 +139,9 @@ The content in this project is divided in sections, and every section is in diff
 
 
 ## Technologies
-* Bootstrap from 4.1.1 to 5.0.0
-* Jquery 3.3.1
-* Popper 1.14.3
+* Bootstrap from 4.0.0 to 5.0.0
+* Jquery 3.2.1, 3.3.1
+* Popper 1.12.9, 1.14.3
 
 ## Setup
 // Describe how to install / setup your local environement / add link to demo version.
