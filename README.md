@@ -44,6 +44,7 @@ The content in this project is divided in sections, and every section is in diff
 * Tables
 * Borders
 * Media Objects
+* Forms
 
 
 ## Graphics
