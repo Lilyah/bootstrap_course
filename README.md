@@ -1,5 +1,3 @@
-// README is in progress
-
 # Bootstrap fundamentals
 > Project from online course to help learn bootstrap
 
@@ -8,9 +6,7 @@
 * [Graphics](#graphics)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -140,41 +136,19 @@ The content in this project is divided in sections, and every section is in diff
 * Tooltips
 ![Tooltips](./img/tooltips.png)
 
-
-
 ## Technologies
 * Bootstrap from 4.0.0 to 5.0.0
+* Fontawasome v5.15.2
 * Jquery 3.2.1, 3.3.1
 * Popper 1.12.9, 1.14.3
 
 ## Setup
-// Describe how to install / setup your local environement / add link to demo version.
 * Begin with the Starter template from https://getbootstrap.com/docs/5.0/getting-started/introduction/
 * Emmet extention https://emmet.io/ for easier coding
-* Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer extention for live local reload on the code 
-* Fontawasome v5.15.2
-
-
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer extention for live local reload on the code
 
 ## Status
-Project is: _in progress_
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is: _finished_
 
 ## Contact
 Created by [@Lilyah](https://github.com/Lilyah) - feel free to contact me!
