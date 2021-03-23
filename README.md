@@ -46,6 +46,7 @@ The content in this project is divided in sections, and every section is in diff
 * Media Objects
 * Forms
 * Other Bootstrap Components - Jumbotron, Carousels, Collapse, Accordian
+* JavaScript - Tooltips, 
 
 ## Graphics
 * 4 Principles of graphic design
@@ -135,6 +136,9 @@ The content in this project is divided in sections, and every section is in diff
 
 * Jumbotron
 ![Jumbotron](./img/jumbotron.png)
+
+* Tooltips
+![Tooltips](./img/tooltips.png)
 
 
 
