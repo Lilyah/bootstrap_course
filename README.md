@@ -45,7 +45,7 @@ The content in this project is divided in sections, and every section is in diff
 * Borders
 * Media Objects
 * Forms
-* Other Bootstrap Components - Jumbotron, Carousels, Collapse
+* Other Bootstrap Components - Jumbotron, Carousels, Collapse, Accordian
 
 ## Graphics
 * 4 Principles of graphic design
