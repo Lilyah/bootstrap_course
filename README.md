@@ -81,8 +81,7 @@ The content in this project is divided in sections, and every section is in diff
 ![Breadcrumbs](./img/pagination.png)
 
 * Styckey navbars
-![Transperent stickey navbar](./img/stickey_navbar_transparent.png)
-![Transperent stickey navbar](./img/stickey_navbar_animated.png)
+![Transperent stickey navbar](./img/stickey_navbars.png)
 
 * Headlines
 ![Headline](./img/headlines.png)
