@@ -46,7 +46,7 @@ The content in this project is divided in sections, and every section is in diff
 * Media Objects
 * Forms
 * Other Bootstrap Components - Jumbotron, Carousels, Collapse, Accordian
-* JavaScript - Tooltips, 
+* JavaScript - Tooltips, Modals
 
 ## Graphics
 * 4 Principles of graphic design
